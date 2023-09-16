@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jose M. Acevedo Velez — [Yo
+<h1 align="center">👋 Hi, I'm Jose M. Acevedo Velez 
 
 <div align="center">
   
