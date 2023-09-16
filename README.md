@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jose M. Acevedo Velez </h1>
-<h3 align="center"><a href="mailto:5011@holbertonstudents.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a> <a href='./Jose Acevedo Resume.pdf'><img src="https://img.shields.io/badge/RESUME-purple?style=for-the-badge"></a><a href="https://www.linkedin.com/in/jose-acevedo-2b6200243" target="_blank"><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a> </h3>
+<h3 align="center"><a href="mailto:5011@holbertonstudents.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a> <a href='./Jose Acevedo Resume.pdf'><img src="https://img.shields.io/badge/RESUME-purple?style=for-the-badge"></a><a href="https://www.linkedin.com/in/jose-acevedo-2b6200243" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a> </h3>
 <div align="center">
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ib07vyhbax7pq3tkqu9vmd10y9doc9mg3j8pbvzw&ep=v1_gifs_search&rid=giphy.gif&ct=g"align="center" style="width: 100%" />
 </div>
