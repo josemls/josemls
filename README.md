@@ -1,10 +1,5 @@
-<h1 align="center">👋 Hi, I'm Jose M. Acevedo Velez 
-
-<div align="center">
-  
-  [![link](https://img.shields.io/website?label=yourwebsite.com&style=for-the-badge&url=https%3A%2F%2Fyourwebsite.com)](https://yourwebsite.com)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yourhandle)
-  
+<h1 align="center">👋 Hi, I'm Jose M. Acevedo Velez </h1>
+<h3 align="center"><a href="mailto:5011@holbertonstudents.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a> <a href='./Jose Acevedo Resume.pdf><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 </div>
 
 ---
