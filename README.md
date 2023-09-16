@@ -4,7 +4,7 @@
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ib07vyhbax7pq3tkqu9vmd10y9doc9mg3j8pbvzw&ep=v1_gifs_search&rid=giphy.gif&ct=g"align="center" style="width: 100%" />
 </div>
 
-## Student from Holberton School. Currently working on my last project.
+## Student from Holberton School. Currently working on my last project.Future Software Engineer
 ## Tools and Technologies
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>  
