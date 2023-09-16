@@ -4,7 +4,7 @@
 
 ---
 
-## 🤝 About Me
+## Student from Holberton School. Currently working on my last project.
 
 🎓 **Education**: [Your Degree] from [Your University]  
 🏢 **Work**: [Your Position at Your Work]  
