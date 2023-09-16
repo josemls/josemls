@@ -1,4 +1,4 @@
-### <h1 align="center"> HI! Welcome to Jose M. Acevedo Velez's GitHub Page!</h1> 👋
+### <h1 align="center"> HI! Welcome to Jose M. Acevedo Velez's GitHub Page!👋</h1> 
 
 <!--
 **josemls/josemls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
